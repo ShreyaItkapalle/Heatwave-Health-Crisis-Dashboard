@@ -34,6 +34,6 @@ across 10 high-risk states from 2015 to 2024.
 - DAX (Data Analysis Expressions)
 
 ## 👤 Author
-**[Shreya MAdhav Itkapalle]** | [Parul University] | 2026
+**[Shreya Madhav Itkapalle]** | [Parul University] | 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shreya-itkapalle-77957b2a5/)
